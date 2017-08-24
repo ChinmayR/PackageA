@@ -1,0 +1,10 @@
+hash: 77a90cdf1d92d15238fc7bc7391d8eca1dde710560397d0ed7762a246201d314
+updated: 2017-08-24T14:02:10.725680005-07:00
+imports:
+- name: github.com/ChinmayR/PackageB
+  version: 0b399647f1e9931d03cf94dc7c5bc86eeec2e843
+- name: github.com/ChinmayR/PackageC
+  version: 51a956cc555bdecb793187dd6ee66304d045946c
+- name: github.com/ChinmayR/PackageD
+  version: b6178533a207110f6e67bfe7aa02e3a48fe5cb11
+testImports: []
