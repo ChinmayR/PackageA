@@ -1,4 +1,0 @@
-package: github.com/ChinmayR/PackageA
-import:
-- package: github.com/ChinmayR/PackageB
-- package: github.com/ChinmayR/PackageC

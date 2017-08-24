@@ -8,7 +8,6 @@ import (
 )
 
 func main() {
-	str, _ := PackageC.FuncInPackageC()
 	fmt.Print("From Package A :" + PackageB.FuncInPackageB() +
-		str)
+		PackageC.FuncInPackageC())
 }
