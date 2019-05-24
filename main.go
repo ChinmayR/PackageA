@@ -1,10 +1,10 @@
-package main
+package provide
 
 import (
 	"fmt"
 )
 
-func main() {
+func GetHello() {
 	fmt.Println("Hello from PackageA")
 	return
 }
